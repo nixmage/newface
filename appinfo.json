@@ -1,0 +1,50 @@
+{
+  "uuid": "c0832cf1-f4f5-4801-8ad6-c0e8531d37f5",
+  "shortName": "firstface",
+  "longName": "firstface",
+  "companyName": "pun337",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+      "type": "font",
+      "name": "FONT_ACCURATIST_20",
+      "file": "fonts/Accuratist.ttf",
+      "compatibility":"2.7"
+      },
+      {
+      "type": "font",
+      "name": "FONT_ACCID_48",
+      "file": "fonts/accid___.ttf",
+      "compatibility":"2.7"
+      },
+      {
+      "type": "font",
+      "name": "FONT_DIGITALL_48",
+      "file": "fonts/01 Digitall.ttf",
+      "compatibility":"2.7"
+      },
+      {
+      "type": "font",
+      "name": "FONT_CONDUCTIVE_BOLD_48",
+      "file": "fonts/Conductive 1.1.ttf",
+      "compatibility":"2.7"
+      },
+      {
+      "type": "font",
+      "name": "FONT_ALEX_20",
+      "file": "fonts/AlexInDR ExtremEdit Normal.ttf",
+      "compatibility":"2.7"
+      }
+    ]
+  }
+}
